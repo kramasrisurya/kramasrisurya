@@ -26,7 +26,7 @@
 - 🏆 Winner of **two hackathons** (1st and 2nd semester)
 - 🎯 Currently looking for **internship opportunities in AI, ML, or Data Science**
 - 📍 Based in Kollam, India
-- ⚡ Fun fact: Won two hackathons in my very first year of college!
+
 
 <!-- Update interests below -->
 **Interests:** AI Research • Exploring New Tech • Travelling
@@ -89,9 +89,9 @@ A fully responsive personal portfolio site showcasing my work and journey.
 
 ## 🏆 Achievements & Certifications
 
+- 📜 AIML Certification — **IIT Patna**
 - 🥇 Winner — Hackathon (1st Semester)
 - 🥇 Winner — Hackathon (2nd Semester)
-- 📜 AIML Certification — **IIT Patna**
 - 📜 **Artificial Intelligence for All** — Infosys Springboard
 - 📜 **Generative AI For All** — Infosys Springboard
 - 📜 **AWS Cloud Practitioner Essentials** — Amazon Web Services
