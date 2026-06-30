@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Rama Sri Surya 👋</h1>
 
-<h3 align="center">AIML Enthusiast | BTech CSE Student | Exploring Generative AI & LLMs</h3>
+<h3 align="center">AIML Enthusiast | BTech CSE Undergrad | Exploring Generative AI & LLMs</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rama-sri-surya" target="_blank">
@@ -120,10 +120,7 @@ A fully responsive personal portfolio site showcasing my work and journey.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kramasrisurya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramasrisurya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kramasrisurya&theme=tokyonight&hide_border=true" />
