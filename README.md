@@ -1,7 +1,4 @@
-<!-- 
-  GitHub Profile README for Rama Sri Surya
-  Update placeholders marked with <!-- comments --> as needed
--->
+
 
 <h1 align="center">Hi there, I'm Rama Sri Surya 👋</h1>
 
