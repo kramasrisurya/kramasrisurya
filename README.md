@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/surya-editorial.webp" width="190" alt="Rama Sri Surya" style="border-radius: 50%; max-width: 100%;" />
+  <img src="./assets/surya-editorial.webp" width="215" alt="Rama Sri Surya" style="border-radius: 50%; max-width: 100%;" />
 
   <h1 align="center">Rama Sri Surya</h1>
 
