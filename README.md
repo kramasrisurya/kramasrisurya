@@ -1,9 +1,9 @@
 <img align="right" width="280" src="./assets/surya-editorial.webp" alt="Rama Sri Surya" />
 
-# Rama Sri Surya
+### **Rama Sri Surya**
 
-### AI & Autonomous Systems Engineer &bull; 3x Consecutive Hackathon Champion
-*Undergraduate in Computer Science & Engineering @ Amrita Vishwa Vidyapeetham, Kollam (Class of 2029)*
+**AI &amp; Autonomous Systems Engineer &bull; 3x Consecutive Hackathon Champion**<br>
+*Undergraduate in Computer Science &amp; Engineering @ Amrita Vishwa Vidyapeetham, Kollam (Class of 2029)*
 
 <p>
   <a href="https://kramasrisurya.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Online-ff8c59?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a>
