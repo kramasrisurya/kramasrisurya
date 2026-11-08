@@ -1,145 +1,190 @@
+<div align="center">
 
+  <img src="./assets/surya-editorial.webp" width="190" alt="Rama Sri Surya" style="border-radius: 50%; max-width: 100%;" />
 
-<h1 align="center">Hi there, I'm Rama Sri Surya 👋</h1>
+  <h1 align="center">Rama Sri Surya</h1>
 
-<h3 align="center">AIML Enthusiast | BTech CSE Undergrad | Exploring Generative AI & LLMs</h3>
+  <p align="center">
+    <strong>AI & Autonomous Systems Engineer &bull; 3x Consecutive Hackathon Champion</strong><br>
+    <em>Undergraduate in Computer Science & Engineering @ Amrita Vishwa Vidyapeetham, Kollam (Class of 2029)</em>
+  </p>
+
+  <p align="center">
+    <a href="https://kramasrisurya.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Online-ff8c59?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/rama-sri-surya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="https://kramasrisurya.github.io/portfolio/RAMA_SRI_SURYA_ATS_RESUME.pdf"><img src="https://img.shields.io/badge/ATS_Resume-Download_PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="ATS Resume" /></a>
+    &nbsp;
+    <a href="mailto:kramasrisurya@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/kramasrisurya">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1000&color=FF8C59&center=true&vCenter=true&width=680&lines=Architecting+Deliberative+Multi-Agent+Reasoning+Systems;Engineering+Spatial+Vision+%26+Person+ReID+(%3C1ms+Redis+State);Building+Production+GenAI+with+Strict+JSON+Schemas;3x+Consecutive+Hackathon+Champion+(IIIT+Kottayam+%E2%80%A2+Epochon+2.0)" alt="Typing Banner" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🏛️ Executive Profile & Engineering Philosophy
+
+I am an **AI and Autonomous Systems Engineer** focused on building verifiable agentic reasoning pipelines, real-time spatial computer vision systems, and resilient asynchronous backends.
+
+Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **deliberative multi-agent consensus graphs** with strict domain constraints, paired with **sub-millisecond distributed state stores (FastAPI + Redis AsyncIO)** and **deep neural networks (PyTorch, ResNet50, OpenCV)**.
+
+- 🎓 **Undergraduate**: B.Tech in CSE at **Amrita Vishwa Vidyapeetham**, Kollam (Class of 2029)
+- 🏆 **Track Record**: **3x Consecutive Inter-College Hackathon Champion** (Sem 1, Sem 2, Sem 3)
+- 📜 **Specialization**: AIML Certification Program — **IIT Patna**
+- 📍 **Base**: Visakhapatnam / Kollam, India
+- 🎯 **Focus Areas**: Deliberative Agents &bull; Spatial Vision & ReID &bull; Production GenAI Orchestration
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 01. Reasoning Over Reflex   → Multi-agent consensus loops > single-shot LLMs│
+│ 02. Spatial Grounding       → Sub-ms Redis state caching + Deep Person ReID │
+│ 03. Production Rigor        → Pydantic v2 schemas + Pytest + Multi-stage CI │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🏆 Championship Honors & Accolades
+
+| Semester / Event | Placement | Host Institution | Project Focus |
+|:---|:---:|:---|:---|
+| **Semester 3 (2026)** | 🥇 **1st Place** | **IIIT Kottayam Inter-College Hackathon** | Distributed intelligent systems under 36h sprint constraints |
+| **Semester 2 (2026)** | 🥇 **1st Place** | **Epochon 2.0 Agentic AI Hackathon** | OmniBots / S2 Legal AI: Multi-agent statutory consensus engine |
+| **Semester 1 (2025)** | 🥇 **1st Place** | **Amrita Freshman Hackathon** | High-velocity modular software engineering & algorithm design |
+
+---
+
+### 🚀 Featured Production Systems
+
+#### 1. [OmniBots / S2 Deliberative Legal AI](https://github.com/kramasrisurya/s2-legal-ai)
+> **Autonomous Multi-Agent Deliberative Reasoning Engine**  
+> *Won 1st Place at Epochon 2.0*
+- **Architecture**: Tri-agent consensus DAG featuring intake routing, statutory analysis, adversarial boundary cross-auditing, and synthesis arbiter.
+- **Capabilities**: Zero-hallucination verification loops for statutory filing deadlines, cross-jurisdictional compliance, and structured document triage.
+- **Stack**: Python, FastAPI, Google Gemini API (`@google/genai`), Pydantic v2 schemas, Redis AsyncIO, Docker.
+
+#### 2. [SmartRetail_AI — Spatial Vision & Retail Risk Engine](https://github.com/kramasrisurya/SmartRetail_AI)
+> **Autonomous Multi-Camera Person Re-Identification (Person ReID) & Telemetry**
+- **Architecture**: Deep feature extraction embeddings across non-overlapping camera fields of view to track customer trajectories and loss-prevention vectors in real time.
+- **Performance**: Sub-millisecond state caching via Redis AsyncIO and non-blocking event-loop processing.
+- **Stack**: Python, PyTorch, TorchVision, OpenCV, FastAPI, Redis, Docker, Pydantic.
+
+#### 3. [Educraft.ai — Multimodal GenAI Engine](https://github.com/kramasrisurya/Educraft.ai)
+> **Deterministic Multimodal PDF-to-Interactive-Course Generator**
+- **Architecture**: Structured output schema enforcement via Gemini 1.5/2.0 Flash to convert dense academic PDFs into modular curricula, interactive flashcards, and verified assessments.
+- **Stack**: TypeScript, Google Gemini API, React 19, Supabase SSR, Tailwind CSS, Vite.
+
+#### 4. [MNIST Deep CNN & Real-Time Inference Canvas](https://github.com/kramasrisurya/mnist_digit_recognition)
+> **Convolutional Neural Network with Interactive Stroke Recognition**
+- **Performance**: **>98% classification benchmark** on MNIST test suite with instant browser stroke normalization.
+- **Stack**: Python, PyTorch, Keras 3, Streamlit Drawable Canvas, NumPy, Matplotlib.
+
+#### 5. [Editorial Portfolio 2.0](https://github.com/kramasrisurya/portfolio)
+> **Award-Winning Luxury Editorial Portfolio & Telemetry Hub**
+- **Features**: Three.js WebGL GLSL shader wave lattice, 2D particle fallback, Lenis smooth scrolling, GSAP ScrollTrigger, ATS Resume modal, and dark editorial typography.
+- **Stack**: React 19, TypeScript, Vite 8, Three.js, GSAP, Tailwind CSS, GitHub Pages CI/CD.
+
+---
+
+### 🛠️ Technical Stack & Toolchain
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>Generative AI & Agents</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-000000?style=flat-square&logo=probot&logoColor=white" alt="Agents" />
+      <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-0A85EA?style=flat-square&logo=openai&logoColor=white" alt="Prompting" />
+      <img src="https://img.shields.io/badge/Structured_Outputs-10B981?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Deep Learning & Vision</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Person_ReID-FF8C59?style=flat-square&logo=target&logoColor=white" alt="ReID" />
+      <img src="https://img.shields.io/badge/CNNs-00599C?style=flat-square&logo=thealgorithms&logoColor=white" alt="CNN" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras_3-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend & Distributed</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Redis_AsyncIO-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Languages & Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📜 Verified Industry Certifications
+
+- 🏅 **AIML Certification Program** &mdash; *Indian Institute of Technology (IIT), Patna*
+- 🏅 **AWS Cloud Practitioner Essentials** &mdash; *Amazon Web Services (AWS)*
+- 🏅 **Computer Vision with Azure Cognitive Services** &mdash; *Microsoft*
+- 🏅 **Artificial Intelligence for All** &mdash; *Infosys Springboard*
+- 🏅 **Generative AI For All** &mdash; *Infosys Springboard*
+- 🏅 **Data Analytics Job Simulation** &mdash; *Deloitte (via Forage)*
+- 🏅 **Data Science & Analytics** &mdash; *HP LIFE*
+
+---
+
+### 📊 Real-Time GitHub Telemetry
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rama-sri-surya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kramasrisurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030303&title_color=ff8c59&icon_color=ff8c59&text_color=e0e0e0" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramasrisurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=030303&title_color=ff8c59&text_color=e0e0e0" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kramasrisurya&theme=tokyonight&hide_border=true&background=030303&ring=ff8c59&fire=ff8c59&currStreakLabel=ff8c59&sideLabels=e0e0e0&dates=a0a0a0" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Direct Transmission
+
+<p align="center">
+  <a href="https://kramasrisurya.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-kramasrisurya.github.io-ff8c59?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rama-sri-surya">
+    <img src="https://img.shields.io/badge/LinkedIn-Rama_Sri_Surya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="mailto:kramasrisurya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kramasrisurya.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Direct_Email-kramasrisurya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-## 🧠 About Me
-
-- 🎓 BTech in Computer Science, **Amrita Vishwa Vidyapeetham**
-- 🤖 Passionate about **AI/ML**, **Generative AI**, and the evolving landscape of AI technologies
-- 📜 Completed an **AIML certification program offered by IIT Patna**
-- 🏆 Winner of **two hackathons** (1st and 2nd semester)
-- 🎯 Currently looking for **internship opportunities in AI, ML, or Data Science**
-- 📍 Based in Kollam, India
-
-
-<!-- Update interests below -->
-**Interests:** AI Research • Exploring New Tech • Travelling
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI/ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<!-- Update links/details as your projects evolve -->
-
-### 🔹 [FinTech Bank Management System](https://drive.google.com/drive/folders/1pLdZ9IwVHEDJmQzRmgQxQ6AzNXTT9xLs?usp=drive_link)
-Designed and implemented a secure and scalable banking management system.
-**Tech Stack:** Python, Django
-
-### 🔹 [LexTrack](https://github.com/epochon/OmniBots.git)
-A tool for tracking legal documents and deadlines efficiently.
-**Tech Stack:** Python
-
-### 🔹 [Personal Portfolio Website](https://kramasrisurya.github.io/portfolio/)
-A fully responsive personal portfolio site showcasing my work and journey.
-**Tech Stack:** HTML, CSS
-
----
-
-## 🏆 Achievements & Certifications
-
-- 📜 AIML Certification — **IIT Patna**
-- 🥇 Winner — Hackathon (1st Semester)
-- 🥇 Winner — Hackathon (2nd Semester)
-- 📜 **Artificial Intelligence for All** — Infosys Springboard
-- 📜 **Generative AI For All** — Infosys Springboard
-- 📜 **AWS Cloud Practitioner Essentials** — Amazon Web Services
-- 📜 **Data Analytics Job Simulation** — Deloitte (via Forage)
-- 📜 **Data Science & Analytics** — HP LIFE
-- 📜 **Computer Vision with Azure Cognitive Services** — Microsoft (via Coursera)
-
----
-
-## 📚 Currently Learning
-
-- 🧬 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 🔍 Deep Learning
-
----
-
-## 🤝 Open to Collaborate On
-
-- Open-source AI/ML projects
-- Internship & research opportunities
-- Hackathons and team-based builds
-- Freelance data science projects
-
----
-
-## 📊 GitHub Stats
-
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kramasrisurya&theme=tokyonight&hide_border=true" />
+  <em>Obsessed with engineering depth, mathematical rigor, and real-world execution.</em>
 </p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rama-sri-surya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kramasrisurya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kramasrisurya.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Thanks for visiting my profile! ⭐ Star my repos if you find them useful.</i></p>
