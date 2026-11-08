@@ -5,8 +5,8 @@
   <h1 align="center">Rama Sri Surya</h1>
 
   <p align="center">
-    <strong>AI & Autonomous Systems Engineer &bull; 3x Consecutive Hackathon Champion</strong><br>
-    <em>Undergraduate in Computer Science & Engineering @ Amrita Vishwa Vidyapeetham, Kollam (Class of 2029)</em>
+    <strong>AI &amp; Autonomous Systems Engineer &bull; 3x Consecutive Hackathon Champion</strong><br>
+    <em>Undergraduate in Computer Science &amp; Engineering @ Amrita Vishwa Vidyapeetham, Kollam (Class of 2029)</em>
   </p>
 
   <p align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-### 🏛️ Executive Profile & Engineering Philosophy
+### 🏛️ Executive Profile &amp; Engineering Philosophy
 
 I am an **AI and Autonomous Systems Engineer** focused on building verifiable agentic reasoning pipelines, real-time spatial computer vision systems, and resilient asynchronous backends.
 
@@ -37,9 +37,9 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
 
 - 🎓 **Undergraduate**: B.Tech in CSE at **Amrita Vishwa Vidyapeetham**, Kollam (Class of 2029)
 - 🏆 **Track Record**: **3x Consecutive Inter-College Hackathon Champion** (Sem 1, Sem 2, Sem 3)
-- 📜 **Specialization**: AIML Certification Program — **IIT Patna**
+- 📜 **Specialization**: AIML Certification Program &mdash; **IIT Patna**
 - 📍 **Base**: Visakhapatnam / Kollam, India
-- 🎯 **Focus Areas**: Deliberative Agents &bull; Spatial Vision & ReID &bull; Production GenAI Orchestration
+- 🎯 **Focus Areas**: Deliberative Agents &bull; Spatial Vision &amp; ReID &bull; Production GenAI Orchestration
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -51,13 +51,13 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
 
 ---
 
-### 🏆 Championship Honors & Accolades
+### 🏆 Championship Honors &amp; Accolades
 
 | Semester / Event | Placement | Host Institution | Project Focus |
 |:---|:---:|:---|:---|
 | **Semester 3 (2026)** | 🥇 **1st Place** | **IIIT Kottayam Inter-College Hackathon** | Distributed intelligent systems under 36h sprint constraints |
 | **Semester 2 (2026)** | 🥇 **1st Place** | **Epochon 2.0 Agentic AI Hackathon** | OmniBots / S2 Legal AI: Multi-agent statutory consensus engine |
-| **Semester 1 (2025)** | 🥇 **1st Place** | **Amrita Freshman Hackathon** | High-velocity modular software engineering & algorithm design |
+| **Semester 1 (2025)** | 🥇 **1st Place** | **Amrita Freshman Hackathon** | High-velocity modular software engineering &amp; algorithm design |
 
 ---
 
@@ -70,8 +70,8 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
 - **Capabilities**: Zero-hallucination verification loops for statutory filing deadlines, cross-jurisdictional compliance, and structured document triage.
 - **Stack**: Python, FastAPI, Google Gemini API (`@google/genai`), Pydantic v2 schemas, Redis AsyncIO, Docker.
 
-#### 2. [SmartRetail_AI — Spatial Vision & Retail Risk Engine](https://github.com/kramasrisurya/SmartRetail_AI)
-> **Autonomous Multi-Camera Person Re-Identification (Person ReID) & Telemetry**
+#### 2. [SmartRetail_AI — Spatial Vision &amp; Retail Risk Engine](https://github.com/kramasrisurya/SmartRetail_AI)
+> **Autonomous Multi-Camera Person Re-Identification (Person ReID) &amp; Telemetry**
 - **Architecture**: Deep feature extraction embeddings across non-overlapping camera fields of view to track customer trajectories and loss-prevention vectors in real time.
 - **Performance**: Sub-millisecond state caching via Redis AsyncIO and non-blocking event-loop processing.
 - **Stack**: Python, PyTorch, TorchVision, OpenCV, FastAPI, Redis, Docker, Pydantic.
@@ -81,23 +81,23 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
 - **Architecture**: Structured output schema enforcement via Gemini 1.5/2.0 Flash to convert dense academic PDFs into modular curricula, interactive flashcards, and verified assessments.
 - **Stack**: TypeScript, Google Gemini API, React 19, Supabase SSR, Tailwind CSS, Vite.
 
-#### 4. [MNIST Deep CNN & Real-Time Inference Canvas](https://github.com/kramasrisurya/mnist_digit_recognition)
+#### 4. [MNIST Deep CNN &amp; Real-Time Inference Canvas](https://github.com/kramasrisurya/mnist_digit_recognition)
 > **Convolutional Neural Network with Interactive Stroke Recognition**
-- **Performance**: **>98% classification benchmark** on MNIST test suite with instant browser stroke normalization.
+- **Performance**: **&gt;98% classification benchmark** on MNIST test suite with instant browser stroke normalization.
 - **Stack**: Python, PyTorch, Keras 3, Streamlit Drawable Canvas, NumPy, Matplotlib.
 
 #### 5. [Editorial Portfolio 2.0](https://github.com/kramasrisurya/portfolio)
-> **Award-Winning Luxury Editorial Portfolio & Telemetry Hub**
+> **Award-Winning Luxury Editorial Portfolio &amp; Telemetry Hub**
 - **Features**: Three.js WebGL GLSL shader wave lattice, 2D particle fallback, Lenis smooth scrolling, GSAP ScrollTrigger, ATS Resume modal, and dark editorial typography.
 - **Stack**: React 19, TypeScript, Vite 8, Three.js, GSAP, Tailwind CSS, GitHub Pages CI/CD.
 
 ---
 
-### 🛠️ Technical Stack & Toolchain
+### 🛠️ Technical Stack &amp; Toolchain
 
 <table>
   <tr>
-    <td width="25%" valign="top"><strong>Generative AI & Agents</strong></td>
+    <td width="25%" valign="top"><strong>Generative AI &amp; Agents</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
       <img src="https://img.shields.io/badge/Multi--Agent_Systems-000000?style=flat-square&logo=probot&logoColor=white" alt="Agents" />
@@ -107,7 +107,7 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Deep Learning & Vision</strong></td>
+    <td valign="top"><strong>Deep Learning &amp; Vision</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -118,7 +118,7 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Backend & Distributed</strong></td>
+    <td valign="top"><strong>Backend &amp; Distributed</strong></td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Redis_AsyncIO-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
@@ -129,7 +129,7 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Languages & Core</strong></td>
+    <td valign="top"><strong>Languages &amp; Core</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -151,16 +151,18 @@ Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **de
 - 🏅 **Artificial Intelligence for All** &mdash; *Infosys Springboard*
 - 🏅 **Generative AI For All** &mdash; *Infosys Springboard*
 - 🏅 **Data Analytics Job Simulation** &mdash; *Deloitte (via Forage)*
-- 🏅 **Data Science & Analytics** &mdash; *HP LIFE*
+- 🏅 **Data Science &amp; Analytics** &mdash; *HP LIFE*
 
 ---
 
 ### 📊 Real-Time GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kramasrisurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030303&title_color=ff8c59&icon_color=ff8c59&text_color=e0e0e0" alt="GitHub Stats" height="165" />
+  <img src="https://img.shields.io/badge/Contributions-440+_Commits-ff8c59?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramasrisurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=030303&title_color=ff8c59&text_color=e0e0e0" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/badge/Hackathons-3x_Champion-10b981?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathons" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public_Repos-20_Shipped-ff8c59?style=for-the-badge&logo=git&logoColor=white" alt="Public Repos" />
 </p>
 
 <p align="center">
