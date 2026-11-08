@@ -153,22 +153,6 @@ I am an **AI and Autonomous Systems Engineer** focused on building verifiable ag
 
 ---
 
-### 📊 Real-Time GitHub Telemetry
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-440+_Commits-ff8c59?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hackathons-3x_Champion-10b981?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathons" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-20_Shipped-ff8c59?style=for-the-badge&logo=git&logoColor=white" alt="Public Repos" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kramasrisurya&theme=tokyonight&hide_border=true&background=030303&ring=ff8c59&fire=ff8c59&currStreakLabel=ff8c59&sideLabels=e0e0e0&dates=a0a0a0" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📬 Direct Transmission
 
 <p align="center">
