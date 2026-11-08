@@ -1,39 +1,37 @@
-<div align="center">
+<img align="right" width="280" src="./assets/surya-editorial.webp" alt="Rama Sri Surya" />
 
-  <img src="./assets/surya-editorial.webp" width="215" alt="Rama Sri Surya" style="border-radius: 50%; max-width: 100%;" />
+# Rama Sri Surya
 
-  <h1 align="center">Rama Sri Surya</h1>
+### AI & Autonomous Systems Engineer &bull; 3x Consecutive Hackathon Champion
+*Undergraduate in Computer Science & Engineering @ Amrita Vishwa Vidyapeetham, Kollam (Class of 2029)*
 
-  <p align="center">
-    <strong>AI &amp; Autonomous Systems Engineer &bull; 3x Consecutive Hackathon Champion</strong><br>
-    <em>Undergraduate in Computer Science &amp; Engineering @ Amrita Vishwa Vidyapeetham, Kollam (Class of 2029)</em>
-  </p>
+<p>
+  <a href="https://kramasrisurya.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Online-ff8c59?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rama-sri-surya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://kramasrisurya.github.io/portfolio/RAMA_SRI_SURYA_ATS_RESUME.pdf"><img src="https://img.shields.io/badge/ATS_Resume-Download_PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="ATS Resume" /></a>
+  &nbsp;
+  <a href="mailto:kramasrisurya@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-  <p align="center">
-    <a href="https://kramasrisurya.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Online-ff8c59?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a>
-    &nbsp;
-    <a href="https://linkedin.com/in/rama-sri-surya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;
-    <a href="https://kramasrisurya.github.io/portfolio/RAMA_SRI_SURYA_ATS_RESUME.pdf"><img src="https://img.shields.io/badge/ATS_Resume-Download_PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="ATS Resume" /></a>
-    &nbsp;
-    <a href="mailto:kramasrisurya@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<p>
+  <a href="https://github.com/kramasrisurya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1000&color=FF8C59&center=false&vCenter=true&width=520&lines=Architecting+Deliberative+Multi-Agent+Reasoning;Engineering+Spatial+Vision+%26+Person+ReID;Building+Production+GenAI+with+Strict+Schemas;3x+Consecutive+Hackathon+Champion" alt="Typing Banner" />
+  </a>
+</p>
 
-  <p align="center">
-    <a href="https://github.com/kramasrisurya">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1000&color=FF8C59&center=true&vCenter=true&width=680&lines=Architecting+Deliberative+Multi-Agent+Reasoning+Systems;Engineering+Spatial+Vision+%26+Person+ReID+(%3C1ms+Redis+State);Building+Production+GenAI+with+Strict+JSON+Schemas;3x+Consecutive+Hackathon+Champion+(IIIT+Kottayam+%E2%80%A2+Epochon+2.0)" alt="Typing Banner" />
-    </a>
-  </p>
+<p>
+  I architect <strong>deliberative multi-agent consensus graphs</strong> with domain constraints, paired with <strong>sub-millisecond distributed state stores (FastAPI + Redis AsyncIO)</strong> and <strong>deep neural networks (PyTorch, ResNet50, OpenCV)</strong>.
+</p>
 
-</div>
+<br clear="both"/>
 
 ---
 
 ### 🏛️ Executive Profile &amp; Engineering Philosophy
 
 I am an **AI and Autonomous Systems Engineer** focused on building verifiable agentic reasoning pipelines, real-time spatial computer vision systems, and resilient asynchronous backends.
-
-Rather than wrapping stochastic LLM prompts in fragile scripts, I architect **deliberative multi-agent consensus graphs** with strict domain constraints, paired with **sub-millisecond distributed state stores (FastAPI + Redis AsyncIO)** and **deep neural networks (PyTorch, ResNet50, OpenCV)**.
 
 - 🎓 **Undergraduate**: B.Tech in CSE at **Amrita Vishwa Vidyapeetham**, Kollam (Class of 2029)
 - 🏆 **Track Record**: **3x Consecutive Inter-College Hackathon Champion** (Sem 1, Sem 2, Sem 3)
